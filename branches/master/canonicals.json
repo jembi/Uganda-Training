@@ -1,0 +1,16 @@
+[
+  {
+    "id" : "openhie.fhir.uganda-training",
+    "type" : "ImplementationGuide",
+    "url" : "http://openhie.org/fhir/uganda-training/ImplementationGuide/openhie.fhir.uganda-training",
+    "version" : "0.1.0",
+    "name" : "UgandaTraining"
+  },
+  {
+    "id" : "uganda-patient",
+    "type" : "StructureDefinition",
+    "url" : "http://openhie.org/fhir/uganda-training/StructureDefinition/uganda-patient",
+    "version" : "0.1.0",
+    "name" : "UgandaPatient"
+  }
+]

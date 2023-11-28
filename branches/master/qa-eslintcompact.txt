@@ -1,0 +1,10 @@
+﻿/github/workspace/fsh-generated/resources/ImplementationGuide-openhie.fhir.uganda-training.json: line 1, col 1132, Info - Reference to deprecated item http://hl7.org/fhir/ValueSet/jurisdiction|5.0.0 (BUSINESSRULE)
+/github/workspace/fsh-generated/resources/StructureDefinition-uganda-patient.json: line 1, col 42739, Info - Reference to deprecated item http://hl7.org/fhir/ValueSet/jurisdiction|5.0.0 (BUSINESSRULE)
+/github/workspace/fsh-generated/resources/StructureDefinition-uganda-patient.json: line 0, col 0, Warning - The Implementation Guide contains no examples for this profile (BUSINESSRULE)
+
+UgandaTraining : Validation Results
+=========================================
+
+err = 0, warn = 1, info = 2
+IG Publisher Version: 1.5.5
+Generated Tue Nov 28 18:09:10 UTC 2023. FHIR version 5.0.0 for openhie.fhir.uganda-training#0.1.0 (canonical = http://openhie.org/fhir/uganda-training)

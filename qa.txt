@@ -1,0 +1,16 @@
+﻿UgandaTraining : Validation Results
+=========================================
+
+err = 0, warn = 1, info = 2
+IG Publisher Version: 1.5.5
+Generated Tue Nov 28 18:09:10 UTC 2023. FHIR version 5.0.0 for openhie.fhir.uganda-training#0.1.0 (canonical = http://openhie.org/fhir/uganda-training)
+ Build Errors : 0 / 0 / 0
+ /github/workspace/fsh-generated/resources/ImplementationGuide-openhie.fhir.uganda-training : 0 / 0 / 2
+ /github/workspace/fsh-generated/resources/StructureDefinition-uganda-patient : 0 / 1 / 2
+</table>
+== n/a ==
+== fsh-generated/resources/ImplementationGuide-openhie.fhir.uganda-training.json ==
+INFORMATION: ImplementationGuide/openhie.fhir.uganda-training: ImplementationGuide.jurisdiction[0]: Reference to deprecated item http://hl7.org/fhir/ValueSet/jurisdiction|5.0.0
+== fsh-generated/resources/StructureDefinition-uganda-patient.json ==
+INFORMATION: StructureDefinition/uganda-patient: StructureDefinition.jurisdiction[0]: Reference to deprecated item http://hl7.org/fhir/ValueSet/jurisdiction|5.0.0
+WARNING: StructureDefinition.where(url = 'http://openhie.org/fhir/uganda-training/StructureDefinition/uganda-patient'): The Implementation Guide contains no examples for this profile
